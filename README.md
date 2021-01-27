@@ -1,5 +1,5 @@
 # KinematicCharacter3D
-KinematicCharacter3D demo project from my YouTube [video](https://www.youtube.com/watch?v=DF4kxLtxoyc&feature=youtu.be).
+KinematicCharacter3D demo project from my YouTube [video](https://www.youtube.com/watch?v=DF4kxLtxoyc).
 
 ![preview image](./preview.png)
 
