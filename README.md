@@ -1,5 +1,5 @@
 # KinematicCharacter3D
-KinematicCharacter3D demo project from my YouTube [video](https://www.youtube.com/watch?v=DF4kxLtxoyc).
+KinematicCharacter3D demo project from my YouTube [video](https://www.youtube.com/watch?v=DF4kxLtxoyc). ***THIS IS OBSOLET DUE TO [NEW VERSION](https://github.com/jegor377/NewKinematicCharacter3D)!***
 
 ![preview image](./preview.png)
 
